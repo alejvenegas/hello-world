@@ -1,2 +1,2 @@
 # hello-world
-a learnong repository
+a learning repository
